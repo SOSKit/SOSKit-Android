@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/com.beust/klaxon/0.31/2dd3477c84726d34a674e0d15635af7c8fd8fb4b/klaxon-0.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2dd3477c84726d34a674e0d15635af7c8fd8fb4b">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/klaxon-0.31_d2d6d9b008e378999097a01332c6842848a239c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.result/result/1.0.5/4fbdfc52e8d54d59acf831dfba6940a35c9667c8/result-1.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fbdfc52e8d54d59acf831dfba6940a35c9667c8">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/result-1.0.5_86fc42bbb00775c00e2da2b0e55ef7a11fa058f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.2.1_93d8ccc3eeecec9154719dfc7e862a54013eca51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.1_66e5642911035ae66746b8d75d79799622230723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.1_7f326dd4b1414921ce7d811d9f00e39ac94fbc10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.1_86aa556f8603eb0a6d1d02ba834fe8f16b90be93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_7d6f4b4caaf56ba5eae51086049bd359781a93e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.1_1cc3e1cb5ce4a4c344a6f1551e12e452699ea14e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.2.1_7c3d9d6fee1a5409f74153bc659e69a19ef7073f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.1_f4ca58f0b9ff18bdfa100ccd3f443e6998e0540a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_b0e58267fa2325fcc377536d8c43ef98cf6d56e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.2.1_accb85a5c76bdbe4caa2dd1f5ede8b00d88c1729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3-2/3fe54c7558c903868351ac79b792d152bca958f2/kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.3-2_53048b88a98a870a55d2d1dd0159278305f3e921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.1_de2f44ce00f71a93d69c7455a27d219247928bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.2.1_f7ab236090c17f11f0b67dba17cda2250be9e152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.1_bf26fb9a8441210fbcb8ec808b5b86da6a0c7556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.1_57c0fbd58d530f13b92f8012e4c2cfab569d841e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.2.1_4b4eef889192fd3db01b41be5e9c2e3b8f8f4a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.2.1_0bec7ab602a0cd4f73e605546925890c3fbb1309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.2.1_270b8c412919b7944930ada347e291abf3fd3b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.1_9a32e4580d1f4bb56878324f10ace4bcf9f2b234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_002784b080967052d63b73e1f7a3058d71b9af0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_9a5ed491ffa61e7296207150bfc5024330a66051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4.4_867623c83585b67f22bd60b01b3ea2c582ef78d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/annotations-13.0_45218d8a6eb2bc4f62c1611ad77df8f56d0beab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.2.1_e83cdd07d3928a2c4ecf5f81103d39dd47e13698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.1_4de6b0a16df31091e198a0032c8eca61d5d29a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_1c1c53eef638d721fe439ecda361cb52996da19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.1_4990f1cddbde4e557ac4b7243bb1d0cfa2e03c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_92313ac6c2b0bd8dd56be027d897ef5be76a6e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_c491ef795bc5c417f9d971b3312276a92cc9f351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.2.1_c0cecd2cf760cb8d7b636a201bfed265fc4defbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.1_889361a0f4ce160b0b38d13635fa69d86ea5f87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.2.1_ed789eb6b5aed109ef121538dfff3f6a388be795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.1_06caa6a5b9e05745edbbe66457e8de06107a1cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.2.1_d2509cff5ffce305c1ae2780181a5a6a256fef41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.1_f88df9123c624d4dba04b78f754aba474e7070e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.1_bff9a5f49e00319aa2565769cf0126be2683ffef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.1_c4e19b949e38908b20c3bdfd8500f58801088208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.1_c64d090e3ede8c7761beaa29613c05c5eaa1a289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_e59197c8157a30a01d39deefc6fbe7c7e8c13c0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-rxjava/1.4.0/59810892c8fbf600fa7e8b28e29c789376badfc6/fuel-rxjava-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59810892c8fbf600fa7e8b28e29c789376badfc6">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/fuel-rxjava-1.4.0_33f89662ae19758ec5bd83cfbb441f962403e863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_972dbdbe2f8f9dfbfa842aa00c9c5970346f8a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel/1.4.0/fdc3c6ff80b0d6e244250e201801f76e979049bd/fuel-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdc3c6ff80b0d6e244250e201801f76e979049bd">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/fuel-1.4.0_3c56860e0702c9784c33665c5fb57da9e7cc26e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.1_76ea971bd6f6e4303798becd7562b50eb159a535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.1_2ef30c65cf4bad32c6b45e7caee8325ef757d060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.1_8d515ff5e43d77987c6571861f680c55252f3ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.2.1_6031d1f88d2c9df1fa45726dfd77f23a2f3ba7ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_2aa8633b82d5c50459b726b66df47ea5b70e5f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_c4b4937ca01728e398a3de7df7fc6e71216449c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.1_f5f82723a9ea86fce727d6ca5b7337c2d46d2918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.1_0d8997733bb826a9e140a2202eab5cf9923b0e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_95e213efca7c5b0af4711802d31bae9fce3b2e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.1_0255e249e0e5c394f8d7177b7bbac7efd2b74a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.1_ceb9ccdc0252241aabdaa48f6b9632ec3bf085da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.2.1_e4fcb63fe15b7bc6d482a13dfb9b78fdf02d3e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.1_5756df64b3a6fe2e841929f4cc4b8a9526472bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.2.1_aaafb5e60514745271732c950938525c50f80ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_2c27a5491e23b1fff7348487a12a20cbf1b1118c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.1_8db0d0fb6baa8167abf778f21942af1ae60de1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.5/b423532b5a3c949cbb799468f83bf566032fe98d/rxjava-1.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b423532b5a3c949cbb799468f83bf566032fe98d">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/rxjava-1.2.5_2b8f33a9bafb30f4f13b62788394fc28139db9dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Library/Developer/Xamarin/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_655198a2af09390f36801d8a1697523151eb67f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.2.1_480a0fd247d641ae5e425a287229c2070783e209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.2.1_89614123e17114d8e3cff817299bb26654fe9a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.2.1_7c9fe8c349a56bd6b4e94e642e70f1ab8f961137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_eee5a4b6ad2b178aa535930d2465e3fde8e8618a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8bfee91626626162cfa14efce161ec0bb1f7d600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3-2/9b44c139a4ec57031e0c84ba0e49ba16df6d801c/kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.3-2_6dc0c93150971bef070c1877ea3ffcfa8893fee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_6ebfffffe4c8bf334d409763bdb4c24c515e53d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.2.1_ca55d00252c8592603ecdb8fd60eb86d0acf16b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.github.kittinunf.fuel/fuel-android/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132cfc9ef1beff2d10889e0a6f4d420a00f7ed56">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.github.kittinunf.fuel-fuel-android-1.4.0_6ae7159b24518ba4a07832f6dcc1847073b951d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.1_d71d3df3eb975b7ea0c7a630bfe4888c5cdcc0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.1_9727bbd91b7652d647cfe3fb2191c8d311c3b422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.2.1_1cc1a92384d50995faed13a3d878fd4329446c75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/brandonroberge/Projects/SOSKit-Android2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.1_bc3bc040c803148d6992929470b4f65f8182e9b6.jar" />
+    </item>
+
+</items>
